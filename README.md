@@ -1,1 +1,3 @@
 # jorrdadsdigitalcloset-privacy-policy
+Privacy Policy for KayaDreams Pin Automation
+This is a personal automation tool used solely to manage my own Pinterest account and my own Etsy shop (KayaDreams Studio). It does not collect, store, or share any data belonging to other Pinterest users. It only creates pins linking to my own product listings and reads my own boards to determine where those pins are placed. No personal data from any third party is accessed, stored, or shared.
